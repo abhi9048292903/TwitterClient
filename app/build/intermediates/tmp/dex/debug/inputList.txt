@@ -1,0 +1,6 @@
+/home/abhi/TwitterClient/app/build/intermediates/classes/debug
+/home/abhi/TwitterClient/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8f8aeb1375dad8ab41ba7e77b6a83ae67f0127fe.jar
+/home/abhi/TwitterClient/app/build/intermediates/pre-dexed/debug/gson-2.2.4-afd9b309d08bd037abdc7c1693bd94cb0d586b32.jar
+/home/abhi/TwitterClient/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-860260fe4ff5a182bdad22c48f6e08c77b7fa7f6.jar
+/home/abhi/TwitterClient/app/build/intermediates/pre-dexed/debug/classes-1cc15aac5119032dfb896a50174627edf0c12337.jar
+/home/abhi/TwitterClient/app/build/intermediates/pre-dexed/debug/classes-ce9900bc6b055a8ee89b17bc2c91999262b22a92.jar
